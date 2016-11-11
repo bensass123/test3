@@ -1,0 +1,39 @@
+body {
+	background-color: #99ff99;
+
+	}
+
+h1 {
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding:10px 10px 10px 10px;
+}
+
+h2 {
+	text-align: left;
+}
+
+h3 {
+	text-align: left;
+}
+
+img {
+
+}
+
+.bio {
+	position: absolute;
+	left: 240px;
+	top: 150px;
+	height: 200px;
+	width: 40%;
+}
+
+.contactinfo {
+	position: absolute;
+	left: 940px;
+	top: 85px;
+	height: 200px;
+	width: 50%;
+}
